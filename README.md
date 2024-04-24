@@ -4,8 +4,11 @@ Really early version, testes to work in Prokka.
 
 ## Installation 
 go build gffreader.go
+
+## Usage
 ./gffreader <GFF file>
 
 ## Keybindings
 CTRL-c - Quit
+
 CTRL-f - Search 
