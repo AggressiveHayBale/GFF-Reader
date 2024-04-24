@@ -1,6 +1,6 @@
 # GFF-Reader
 Terminal GFF reader with search functionality written in GO.
-Really early version, testes to work in Prokka. 
+Really early version, tested to work in Prokka gff files. 
 
 ## Installation 
 go build gffreader.go
